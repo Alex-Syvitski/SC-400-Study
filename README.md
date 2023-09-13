@@ -1,6 +1,7 @@
 # SC-400
 Study Notes --- SC-400: Administering Information Protection and Compliance in Microsoft 365
 
+9/13/2023 - Draft one complete. Initial formatting is complete. Will be reviewing and updating as I study the offical course material. 
 
 9/11/2023 - Initial Study Notes generated based of Microsoft exam guide with ChatGPT. Roughly 50% complete.
 
