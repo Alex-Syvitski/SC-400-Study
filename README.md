@@ -1,7 +1,7 @@
 # SC-400
 Study Notes --- SC-400: Administering Information Protection and Compliance in Microsoft 365
 
-9/17/2023 - Completed the official course material modules. Added alot of diagrams and info from. Will be focusing on this document of next week, hopefully start exam prep week or two following.
+9/17/2023 - Completed the official course material modules. Added alot of diagrams and info from modules. Will be focusing on study notes for now, hopefully start exam prep week or two following.
 
 9/16/2023 - Added Notes and Diagrams section using content pulled from microsoft learning material, may break it into a seperate document. Started reviewing some of content, despite length I may not try to pair it down as it is fairly good and easy to read /follow but I do not like any of the layout. Probably wont fix because effort is of little value.
 
