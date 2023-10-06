@@ -1,6 +1,8 @@
 # SC-400
 Study Notes --- SC-400: Administering Information Protection and Compliance in Microsoft 365
 
+10/06/2023 - Did a couple of presentations recently. Because I could pick the topic, I choose MS Purview DLP - forcing me to get quite good at the topic. Here is my presentation material, credit to microsoft for most screenshots.
+
 9/25/2023 - Broke diagrams and personal notes off of main study notes, add more content. Doing a second pass of Microsoft study notes. Diving deeper into SC-400 in the coming week or so.
 
 9/17/2023 - Completed the official course material modules. Added alot of diagrams and info from modules. Will be focusing on study notes for now, hopefully start exam prep week or two following.
