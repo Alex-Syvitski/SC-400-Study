@@ -25,7 +25,9 @@ Study Notes --- SC-400: Administering Information Protection and Compliance in M
 
 
 Important Links:
+
 https://learn.microsoft.com/en-us/certifications/exams/sc-400/
+
 https://learn.microsoft.com/en-us/certifications/resources/study-guides/SC-400
 
 
