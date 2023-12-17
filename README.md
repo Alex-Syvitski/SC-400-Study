@@ -1,6 +1,11 @@
 # SC-400
 Study Notes --- SC-400: Administering Information Protection and Compliance in Microsoft 365
 
+12/17/2023 - I did it!!! YAHOO!! HOORAY!! Or whatever sound we deem appropriate. This was alot harder then I expected, the open book nature of microsoft learn did help but the exam itself was extremly hard. My notes are not enough, microsoft has nice practice offerings that I took advantage of in the final days. It was instrumental to my success. Link below:
+
+https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-400/practice/assessment?assessmentId=79&assessment-type=practice
+
+
 12/9/2023 - Extremly heavy study day and first XMas party great day. As part of all my studies I cleaned up the diagram as it is very useful and has some nice powershell examples for practical use. Added cheat sheet to its body and cleaned up spacing as much as possible. Removed my old notes as I felt they were trash panda, I am going to try something else on my next cert.
 
 12/9/2023 - Life comes at you fast :) Been ready for awhile but on a tight budget. Things are more freed up so I restarted the course from scratch as I became demotivated due to finances. Now I'm working I don't want to waste too much time and complete this. Practice quiz's this week put me on track to write next week. I am not using any of my previous material instead just the learn.microsoft source material. I have put together a nice cheatsheet to study everyday leading up. Will tweak with any other concepts to add. 
